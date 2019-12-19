@@ -15207,11 +15207,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\webApplication\\Store\\WebShop\\WebShop.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\bookStore\\webApplication\\Store\\WebShop\\WebShop.csproj",
       "projectName": "WebShop",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\webApplication\\Store\\WebShop\\WebShop.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\bookStore\\webApplication\\Store\\WebShop\\WebShop.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\webApplication\\Store\\WebShop\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\bookStore\\webApplication\\Store\\WebShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15230,11 +15230,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\webApplication\\Store\\WebShop.Data\\WebShop.Data.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\webApplication\\Store\\WebShop.Data\\WebShop.Data.csproj"
+            "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\bookStore\\webApplication\\Store\\WebShop.Data\\WebShop.Data.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\bookStore\\webApplication\\Store\\WebShop.Data\\WebShop.Data.csproj"
             },
-            "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\webApplication\\Store\\Webshop.Service\\Webshop.Service.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\webApplication\\Store\\Webshop.Service\\Webshop.Service.csproj"
+            "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\bookStore\\webApplication\\Store\\Webshop.Service\\Webshop.Service.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\different\\university\\LNU3course1term\\прогр та підтр ВЕБзастосувань\\bookStore\\webApplication\\Store\\Webshop.Service\\Webshop.Service.csproj"
             }
           }
         }
