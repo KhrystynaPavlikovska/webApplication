@@ -1,7 +1,6 @@
 # webApplication
 task 2 (on WEB lessons)
 
- # Book Store
 In this progect you can look over many products, add to basket and buy it.
 
  # Description
