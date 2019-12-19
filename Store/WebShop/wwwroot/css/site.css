@@ -37,7 +37,7 @@ body {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     position: relative;
-    background: aquamarine;
+    background: #ffe394;
 }
 
     body::-webkit-scrollbar {
@@ -85,7 +85,7 @@ h4,
 h5,
 h6 {
     text-transform: capitalize;
-    margin: 0;
+    margin: 20px;
     padding: 0;
 }
 
@@ -114,7 +114,7 @@ button {
     width: 85.42%;
     margin: 0 auto;
     position: relative;
-    background: azure;
+    background: white;
 }
 
 .btn {
@@ -122,7 +122,7 @@ button {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background-color: blueviolet;
+    background-color: #eb8282;
     color: azure;
     display: block;
     padding: 19px;
@@ -138,6 +138,7 @@ button {
     }
 
 .btn_wide {
+    border-radius: 20px;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
@@ -177,7 +178,7 @@ button {
     margin-top: 5vh;
     margin-bottom: 10vh;
     width: 100%;
-    background: violet;
+    background: #e95353;
 }
 
 .navBtns {
@@ -186,7 +187,7 @@ button {
 }
 
 .logo {
-    background-color: blueviolet;
+    background-color: #e95353;
     color: azure;
     padding: 6px 27px;
     font-size: 25px;
@@ -203,7 +204,7 @@ button {
     height: 50px;
     -webkit-transform: translateX(0);
     transform: translateX(0);
-    background-color: #000;
+    background-color: #e95353;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0);
@@ -225,7 +226,7 @@ button {
     right: 55px;
     background-size: 15px;
     border: 0;
-    background-color: #000;
+    background-color: #eb8282;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
 }
@@ -238,7 +239,7 @@ button {
 }
 
 .search_box {
-    background-color: #000;
+    background-color: #eb8282;
     font-size: 25px;
     color: #FFF;
     height: 100%;
@@ -281,7 +282,7 @@ button {
     right: 70px;
     width: 50px;
     height: 50px;
-    background: black;
+    background: #eb8282;
 }
 
 #log_off {
@@ -304,7 +305,7 @@ button {
     position: relative;
     width: 50px;
     height: 50px;
-    background: black;
+    background: #eb8282;
 }
 
 #cartLength {
@@ -381,7 +382,7 @@ button {
     -moz-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-color: palevioletred;
+    background-color: #48687c;
     color: #FFF;
     min-height: 430px;
     -webkit-transform: scale(1);
@@ -403,7 +404,7 @@ button {
     }
 
     .catalog_item h2 {
-        color: red;
+        color: #ffe394;
     }
 
 .catalog_item_img {
@@ -439,7 +440,7 @@ button {
     font-weight: 900;
     margin: 0;
     font-family: Montserrat, sans-serif;
-    color: aqua;
+    color: #a9deff;
 }
 
 .catalog_item_tocart {
@@ -450,6 +451,7 @@ button {
     margin-top: 10px;
     text-align: center;
     cursor: pointer;
+    border-radius: 10px;
 }
 
 .back_btn {
@@ -590,6 +592,7 @@ button {
         }
 
 .cart_item {
+    border-radius: 20px;
     position: relative;
     display: -webkit-box;
     display: -moz-box;
@@ -600,7 +603,7 @@ button {
     -ms-flex-pack: justify;
     justify-content: space-between;
     width: 100%;
-    background-color: blueviolet;
+    background-color: #48687c;
     color: #FFF;
     height: 25vh;
     padding: 11px;
@@ -758,7 +761,7 @@ button {
 
 input {
     border: 0;
-    background-color: blueviolet;
+    background-color: #eb8282;
     color: #fff;
     font-family: Raleway, sans-serif;
     font-weight: 500;
@@ -778,6 +781,7 @@ button {
 #login_sign_in input {
     padding: 2%;
     width: 100%;
+    margin-left: 20px;
 }
 
 .admin_layout{
